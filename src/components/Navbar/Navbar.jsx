@@ -1,5 +1,5 @@
 import style from './Navbar.module.css';
-import landing_image from '../../assets/images/landing-image.jpg';
+import landing_image from "../../images/bg-masthead.jpg";
 
 const Navbar = () => {
      return (
