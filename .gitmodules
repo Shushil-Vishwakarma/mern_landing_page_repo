@@ -1,0 +1,3 @@
+[submodule "src/assets"]
+    path = src/assets
+    url = <URL_OF_SUBMODULE>
